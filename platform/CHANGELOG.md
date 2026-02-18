@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.47](https://github.com/archestra-ai/archestra/compare/platform-v1.0.46...platform-v1.0.47) (2026-02-18)
+
+
+### Features
+
+* add tolerations support to Helm chart ([#2878](https://github.com/archestra-ai/archestra/issues/2878)) ([6d92250](https://github.com/archestra-ai/archestra/commit/6d922502554a9ea7c4fc6c6064db108a97c45bf5))
+
 ## [1.0.46](https://github.com/archestra-ai/archestra/compare/platform-v1.0.45...platform-v1.0.46) (2026-02-18)
 
 
